@@ -215,9 +215,3 @@ MIT License
 Pull requests are welcome.
 This project is designed to be **simple, educational, and extensible**.
 
----
-
-
-
-Just tell me 👍
-```
