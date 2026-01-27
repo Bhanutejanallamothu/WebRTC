@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: webrtc-signaling-backend
+    runtime: docker
+    plan: free
+    region: singapore
+    autoDeploy: true
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"
